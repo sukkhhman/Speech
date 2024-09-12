@@ -1,0 +1,2 @@
+speech_command_model.keras: 96af0d5a9fa1aab9b36e49899d565f2f
+speech_command_dataset.npz: c6c17306f2f15215e0a59343dcdf891b
